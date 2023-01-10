@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sallavander/Viacheslav_Sapelnikov.git"
+    "url": "git+https://github.com/sape1nik/Viacheslav_Sapelnikov.git"
   },
   "author": "Viacheslav Sapelnikov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sallavander/Viacheslav_Sapelnikov.git/WebAPI"
+    "url": "https://github.com/sape1nik/Viacheslav_Sapelnikov.git/WebAPI"
   },
-  "homepage": "https://github.com/sallavander/Viacheslav_Sapelnikov.git#readme",
+  "homepage": "https://github.com/sape1nik/Viacheslav_Sapelnikov.git#readme",
   "dependencies": {
     "@types/jasmine": "^4.3.1",
     "dropbox-v2-api": "^2.5.10-next.3",

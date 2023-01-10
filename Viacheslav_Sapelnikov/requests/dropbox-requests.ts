@@ -22,7 +22,7 @@ export class DropboxRequests {
         parameters: {
           path: dropboxPath,
         },
-        readStream: fs.createReadStream("files/VSap3l.txt"),
+        readStream: fs.createReadStream("files/sape1nik.txt"),
       },
       (err: dict, result: dict, response: dict) => {
         expect(response.statusCode).toBe(200);
@@ -39,7 +39,7 @@ export class DropboxRequests {
         parameters: {
           path: dropboxPath,
         },
-        readStream: fs.createReadStream("files/VSap3l.txt"),
+        readStream: fs.createReadStream("files/sape1nik.txt"),
       },
       (err: dict, result: dict, response: dict) => {
         expect(response.statusCode).toBe(401);
